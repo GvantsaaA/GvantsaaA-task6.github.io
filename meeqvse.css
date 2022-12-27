@@ -1,0 +1,174 @@
+@font-face {
+    font-family: "first";
+    src: url(FiraGO-Regular.woff2);
+}
+
+@font-face {
+    font-family: "pirveli";
+    src: url(FiraGO-Bold.woff);
+}
+
+
+body{
+    background-color:  #FDFDFD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+
+.didiyuti{
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+   
+    border-radius: 10px;
+    width: 718px;
+    
+}
+
+
+.insid{
+    padding-top: 40px;
+    padding-left: 51px;
+    padding-bottom: 24px;
+    padding-right: 51px;
+}
+
+
+.inputgroup input{
+    width: 94%;
+}
+
+select{
+    width: 100%;
+}
+
+
+.signup{
+    font-family: "pirveli";
+    
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0px;
+    color: #000000;
+    
+}
+
+label{
+    font-family: "pirveli";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+
+
+
+
+.input1{
+    padding: 18px 18px 18px 18px; 
+    
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    
+}
+
+    .input2{
+    padding: 18px 18px 18px 18px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+ select{
+    padding: 18px 18px 18px 18px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+.input4{
+    padding: 18px 18px 116px 18px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+.input5{
+    padding: 18px 19px 17px 18px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+.input6{
+    padding: 18px 19px 17px 18px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+
+
+
+button{
+    font-family: "first";
+    font-weight: 400;
+    font-size: 16px;
+    margin-left:  400px; 
+    margin-top: 13px;
+    margin-bottom: 24px;
+     
+    height: 47px;
+    width: 215px;
+    
+    background-color: #FFDD04;
+    
+    border-radius: 10px;
+   border: 1px solid #FFDD04;
+}
+
+
+.button1{
+    box-sizing: border-box;
+   
+}
+
+textarea{
+    padding: 18px 18px 100px 18px;
+    width: 94%;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+
+.name1{
+    margin-top: 30px;
+}
+
+.Email{
+    margin-top: 13px;
+}
+
+.selectbox{
+    margin-top: 13px;
+}
+
+.aboutyou{
+    margin-top: 13px;
+}
+
+.passwordd{
+    margin-top: 13px;
+}
+
+.repeatpassword{
+    margin-top: 13px;
+}
